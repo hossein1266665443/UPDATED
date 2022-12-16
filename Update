@@ -1,0 +1,12 @@
+{
+  "Visibility": "VISIBLE",
+  "Title": "New Update",
+  "Description": "● Bug fixes
+● Added online wallpaper
+● Fixed download failure",
+  "MainTextButton": "Update",
+  "Cancelable": "false",
+  "CancelButtonText": "Cancel",
+  "DownloadLink": " https://myket.ir/app/com.my.wallpaper",
+  "Version": "1.8"
+}
