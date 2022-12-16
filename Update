@@ -5,7 +5,7 @@
 ● Added online wallpaper
 ● Fixed download failure",
   "MainTextButton": "Update",
-  "Cancelable": "ture",
+  "Cancelable": "true",
   "CancelButtonText": "Cancel",
   "DownloadLink": "https://myket.ir/app/com.my.wallpaper",
   "Version": "1.8"
